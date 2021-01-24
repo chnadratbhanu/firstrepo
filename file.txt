@@ -1,5 +1,8 @@
-First line
+First line (alternative)
 Second line
+ HEAD
 Third line (main)
+Third line (alternative)
+alternative
 Fourth line
 Fifth line (main)
